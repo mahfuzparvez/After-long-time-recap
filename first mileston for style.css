@@ -1,0 +1,40 @@
+*{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#favimage{
+    border: 4px solid green;
+    border-radius: 42px;
+    background-color: red;
+}
+#favimage img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#header{
+    /* border: 14px opx 14px 0px solid red; */
+    margin: 40px 0px 80px 70px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.header4{
+    border: 24px solid grey;
+    border-radius: 30px 0px 30px 0px;
+    padding: 50px;
+    background-color: blue;
+    color: aliceblue;
+    text-align: justify;
+}
+.header6{
+    visibility: hidden;
+}
+.hee{
+    border: 30px solid yellow;
+    height: 300px;
+    background-image: url(/images.png);
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover */
+    /* background-size: contain; */
+    background-size: 300px;
+}
